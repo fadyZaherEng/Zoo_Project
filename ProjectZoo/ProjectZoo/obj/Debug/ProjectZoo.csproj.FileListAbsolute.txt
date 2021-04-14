@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ProjectZoo\ProjectZoo\bin\Debug\ProjectZoo.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ProjectZoo\ProjectZoo\bin\Debug\ProjectZoo.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ProjectZoo\ProjectZoo\bin\Debug\ProjectZoo.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ProjectZoo\ProjectZoo\obj\Debug\ProjectZoo.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ProjectZoo\ProjectZoo\obj\Debug\ProjectZoo.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ProjectZoo\ProjectZoo\obj\Debug\ProjectZoo.csprojResolveAssemblyReference.cache
